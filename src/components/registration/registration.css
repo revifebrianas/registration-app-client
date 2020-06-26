@@ -1,0 +1,88 @@
+.container {
+
+}
+
+.content {
+    flex: 1;
+    align-content: center;
+}
+
+.header {
+    height: 40px;
+    width: 100%;
+    font-size: 25px;
+    margin-left: 28%;
+    margin-top: 2%;
+}
+
+.input {
+    width: 40%;
+    margin-top: 2%;
+    margin-left: 28%;
+    border-radius: 5px;
+    height: 30px;
+}
+
+.labelDob {
+    margin-left: 28%;
+    margin-top: 2%;
+}
+
+.labelGender {
+    margin-top: 2%;
+    margin-left: 28%;
+}
+
+.radioFemale {
+    margin-left: 3%;
+}
+
+.labelMale {
+    margin-left: 1%;
+}
+
+.labelFemale {
+    margin-left: 1%;
+}
+
+.register-button {
+    background-color: #9a009a;
+    color: white;
+    width: 41%;
+    height: 30px;
+    margin-top: 4%;
+    border: none;
+    margin-left: 28%;
+    border-radius: 5px;
+}
+
+.register-button:hover {
+    cursor: pointer;
+}
+
+.dob {
+    margin-left: 28%;
+    margin-top: 1%;
+}
+
+.footer {
+
+}
+
+.footerLogin {
+
+}
+
+.footerLogin:hover {
+    cursor: pointer;
+}
+
+.footerContainer {
+    position: absolute;
+    height: 80px;
+    width: 100%;
+    background-color: #9a009a;
+    bottom: 0;
+    color: white;
+    font-size: 25px;
+}
